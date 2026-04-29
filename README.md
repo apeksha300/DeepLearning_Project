@@ -40,6 +40,7 @@ CNN with:
 ## Accuracy
 Training Accuracy: 95%
 Validation Accuracy: 93%
+Testing Accuracy: 87%
 
 ## How to Run
 1. Open notebook in Google Colab
